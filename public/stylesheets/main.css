@@ -11,6 +11,19 @@ img {
   z-index: 1;
 }
 
+h1 {
+  max-height: 90%;
+  max-width: 90%;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index: 3;
+  color: red;
+}
+
 body {
  background-image: url('../img/pancake_stack.gif');
 }
@@ -24,5 +37,5 @@ audio {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 100%;
+  height: 90%;
 }
