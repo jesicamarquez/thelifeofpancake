@@ -18,4 +18,5 @@ body {
 audio {
   right:500px;
   bottom: 700px;
+  z-index: 0;
 }
