@@ -8,8 +8,10 @@ img {
   right: 0;
   margin: auto;
   border: 2px solid rgb(44,44,44);
+  z-index: 1;
 }
 
 body {
  background-image: url('../img/pancake_stack.gif');
 }
+
