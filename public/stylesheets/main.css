@@ -9,3 +9,7 @@ img {
   margin: auto;
   border: 2px solid rgb(44,44,44);
 }
+
+body {
+ background-image: url('../img/pancake_stack.gif');
+}
